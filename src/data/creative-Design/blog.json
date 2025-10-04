@@ -1,0 +1,76 @@
+{
+  "blog": [
+    {
+      "blog": "https://www.smashingmagazine.com/",
+      "author": "Smashing Magazine"
+    },
+    {
+      "blog": "https://www.creativebloq.com/",
+      "author": "Creative Bloq"
+    },
+    {
+      "blog": "https://www.designboom.com/",
+      "author": "designboom"
+    },
+    {
+      "blog": "https://www.adobe.com/creativecloud/business/blog/",
+      "author": "Adobe Creative Cloud Blog"
+    },
+    {
+      "blog": "https://abduzeedo.com/",
+      "author": "Abduzeedo"
+    },
+    {
+      "blog": "https://eyeondesign.aiga.org/",
+      "author": "AIGA Eye on Design"
+    },
+    {
+      "blog": "https://www.designweek.co.uk/",
+      "author": "Design Week"
+    },
+    {
+      "blog": "https://www.creativeboom.com/",
+      "author": "Creative Boom"
+    },
+    {
+      "blog": "https://www.dezeen.com/",
+      "author": "Dezeen"
+    },
+    {
+      "blog": "https://theinspiration-grid.com/",
+      "author": "The Inspiration Grid"
+    },
+    {
+      "blog": "https://www.designworklife.com/",
+      "author": "DesignWorkLife"
+    },
+    {
+      "blog": "https://www.behance.net/",
+      "author": "Behance"
+    },
+    {
+      "blog": "https://dribbble.com/",
+      "author": "Dribbble"
+    },
+    {
+      "blog": "https://www.itsnicethat.com/",
+      "author": "It's Nice That"
+    },
+    {
+      "blog": "https://www.fastcompany.com/co-design",
+      "author": "Fast Company Design"
+    },
+    {
+      "blog": "https://www.core77.com/",
+      "author": "Core77"
+    },
+    {
+      "blog": "https://weandthecolor.com/",
+      "author": "We And The Color"
+    },
+    {
+      "blog": "https://www.creativereview.co.uk/",
+      "author": "Creative Review"
+    }
+  ]
+}
