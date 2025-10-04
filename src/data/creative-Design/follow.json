@@ -11,24 +11,9 @@
       "name": "Stefan Sagmeister"
     },
     {
-      "followLink": "https://www.paulascher.com/",
-      "photo": "paula_scher.jpg",
-      "name": "Paula Scher"
-    },
-    {
-      "followLink": "https://www.pentagram.com/about/michael-bierut",
-      "photo": "michael_bierut.jpg",
-      "name": "Michael Bierut"
-    },
-    {
       "followLink": "https://www.jnd.org/",
       "photo": "don_norman.jpg",
       "name": "Don Norman"
-    },
-    {
-      "followLink": "https://www.lukew.com/",
-      "photo": "luke_wroblewski.jpg",
-      "name": "Luke Wroblewski"
     },
     {
       "followLink": "https://bradfrost.com/",
@@ -51,11 +36,6 @@
       "name": "Timothy Goodman"
     },
     {
-      "followLink": "https://www.aarronwalter.com/",
-      "photo": "aaron_walter.jpg",
-      "name": "Aarron Walter"
-    },
-    {
       "followLink": "https://www.sensory.studio/",
       "photo": "steve_krug.jpg",
       "name": "Steve Krug"
@@ -69,36 +49,6 @@
       "followLink": "https://www.pentagram.com/about/eddie-opara",
       "photo": "eddie_opara.jpg",
       "name": "Eddie Opara"
-    },
-    {
-      "followLink": "https://www.karimrashid.com/",
-      "photo": "karim_rashid.jpg",
-      "name": "Karim Rashid"
-    },
-    {
-      "followLink": "https://www.pentagram.com/about/natasha-jen",
-      "photo": "natasha_jen.jpg",
-      "name": "Natasha Jen"
-    },
-    {
-      "followLink": "https://www.davidcarson.com/",
-      "photo": "david_carson.jpg",
-      "name": "David Carson"
-    },
-    {
-      "followLink": "https://www.pentagram.com/about/abbott-miller",
-      "photo": "abbott_miller.jpg",
-      "name": "Abbott Miller"
-    },
-    {
-      "followLink": "https://www.chrisdo.com/",
-      "photo": "chris_do.jpg",
-      "name": "Chris Do"
-    },
-    {
-      "followLink": "https://www.johnmaeda.io/",
-      "photo": "john_maeda.jpg",
-      "name": "John Maeda"
     }
   ]
 }
