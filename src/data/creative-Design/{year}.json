@@ -1,0 +1,196 @@
+{
+  "2025": [
+    {
+      "title": "Figma AI",
+      "description": "Revolutionary AI-powered design tool with neural component generation, quantum-responsive layouts, and holographic design systems for next-gen creative workflows.",
+      "url": "https://figma.com/",
+      "morelink": "figma-ai"
+    },
+    {
+      "title": "Adobe Firefly 3.0",
+      "description": "Advanced generative AI suite with quantum-enhanced image creation, neural texture synthesis, and holographic asset streaming for creative professionals.",
+      "url": "https://adobe.com/sensei/generative-ai/firefly",
+      "morelink": "firefly3"
+    },
+    {
+      "title": "Canva Pro AI",
+      "description": "Neural-powered design platform with quantum template optimization, AI-driven brand consistency, and holographic collaboration features.",
+      "url": "https://canva.com/",
+      "morelink": "canva-pro-ai"
+    },
+    {
+      "title": "Sketch Quantum",
+      "description": "Vector design tool enhanced with quantum rendering engine, neural symbol libraries, and holographic interface design capabilities.",
+      "url": "https://sketch.com/",
+      "morelink": "sketch-quantum"
+    },
+    {
+      "title": "Adobe XD Neural",
+      "description": "AI-enhanced prototyping platform with quantum interaction modeling, neural user flow prediction, and holographic UX testing environments.",
+      "url": "https://adobe.com/products/xd.html",
+      "morelink": "xd-neural"
+    },
+    {
+      "title": "Framer X Pro",
+      "description": "Code-based design tool with neural component systems, quantum animation rendering, and holographic interactive prototyping capabilities.",
+      "url": "https://framer.com/",
+      "morelink": "framer-x-pro"
+    },
+    {
+      "title": "Midjourney 7",
+      "description": "Neural art generation platform with quantum creativity algorithms, holographic style transfer, and AI-powered design exploration tools.",
+      "url": "https://midjourney.com/",
+      "morelink": "midjourney7"
+    },
+    {
+      "title": "Procreate Infinity",
+      "description": "Digital illustration app with neural brush engines, quantum color prediction, and holographic canvas environments for immersive creativity.",
+      "url": "https://procreate.com/",
+      "morelink": "procreate-infinity"
+    },
+    {
+      "title": "Adobe Illustrator AI",
+      "description": "Vector graphics editor with quantum path optimization, neural typography generation, and holographic logo design assistants.",
+      "url": "https://adobe.com/products/illustrator.html",
+      "morelink": "illustrator-ai"
+    },
+    {
+      "title": "Affinity Designer 3D",
+      "description": "Professional vector graphics software with neural precision tools, quantum gradient systems, and holographic workspace visualization.",
+      "url": "https://affinity.serif.com/designer/",
+      "morelink": "affinity-3d"
+    },
+    {
+      "title": "Principle Quantum",
+      "description": "Advanced prototyping tool with neural interaction modeling, quantum timeline optimization, and holographic motion design capabilities.",
+      "url": "https://principleformac.com/",
+      "morelink": "principle-quantum"
+    },
+    {
+      "title": "InVision Neural",
+      "description": "Digital product design platform with AI-powered collaboration, quantum feedback systems, and holographic design presentation tools.",
+      "url": "https://invisionapp.com/",
+      "morelink": "invision-neural"
+    },
+    {
+      "title": "Adobe After Effects AI",
+      "description": "Motion graphics software with neural animation generation, quantum compositor engine, and holographic effects rendering system.",
+      "url": "https://adobe.com/products/aftereffects.html",
+      "morelink": "ae-ai"
+    },
+    {
+      "title": "Cinema 4D Quantum",
+      "description": "3D modeling and animation software with neural procedural generation, quantum lighting simulation, and holographic material systems.",
+      "url": "https://maxon.net/cinema-4d",
+      "morelink": "c4d-quantum"
+    },
+    {
+      "title": "Blender Neural",
+      "description": "Open-source 3D creation suite with AI-powered modeling tools, quantum rendering engine, and neural animation assistance systems.",
+      "url": "https://blender.org/",
+      "morelink": "blender-neural"
+    },
+    {
+      "title": "Adobe Photoshop AI",
+      "description": "Industry-standard image editor with quantum-enhanced generative fill, neural content-aware tools, and holographic layer management.",
+      "url": "https://adobe.com/products/photoshop.html",
+      "morelink": "photoshop-ai"
+    },
+    {
+      "title": "DALL-E 4",
+      "description": "Advanced AI image generation system with quantum creativity models, neural style synthesis, and holographic concept visualization tools.",
+      "url": "https://openai.com/dall-e",
+      "morelink": "dalle4"
+    },
+    {
+      "title": "Stable Diffusion 4.0",
+      "description": "Open-source AI image generation model with neural artistic control, quantum prompt optimization, and holographic style transfer capabilities.",
+      "url": "https://stability.ai/",
+      "morelink": "sd4"
+    },
+    {
+      "title": "Rive Neural",
+      "description": "Interactive design tool with AI-powered animations, quantum state management, and holographic real-time graphics rendering system.",
+      "url": "https://rive.app/",
+      "morelink": "rive-neural"
+    },
+    {
+      "title": "Adobe Substance Suite",
+      "description": "3D material and texture creation tools with neural surface generation, quantum procedural workflows, and holographic material visualization.",
+      "url": "https://substance3d.adobe.com/",
+      "morelink": "substance-suite"
+    },
+    {
+      "title": "Spline AI",
+      "description": "3D design tool with neural object modeling, quantum scene optimization, and holographic collaborative workspace environments.",
+      "url": "https://spline.design/",
+      "morelink": "spline-ai"
+    },
+    {
+      "title": "Webflow Designer AI",
+      "description": "Visual web design platform with neural layout generation, quantum responsive optimization, and holographic design system integration.",
+      "url": "https://webflow.com/",
+      "morelink": "webflow-ai"
+    },
+    {
+      "title": "Luma AI",
+      "description": "Neural video generation platform with quantum scene synthesis, AI-powered cinematography, and holographic content creation tools.",
+      "url": "https://lumalabs.ai/",
+      "morelink": "luma-ai"
+    },
+    {
+      "title": "RunwayML Gen-3",
+      "description": "Creative AI suite with neural content generation, quantum style transfer, and holographic creative assistance for multimedia production.",
+      "url": "https://runwayml.com/",
+      "morelink": "runwayml-gen3"
+    },
+    {
+      "title": "Adobe Express AI",
+      "description": "All-in-one creative platform with neural template optimization, quantum brand automation, and holographic social media design tools.",
+      "url": "https://express.adobe.com/",
+      "morelink": "express-ai"
+    },
+    {
+      "title": "Marvel Quantum",
+      "description": "Digital design platform with AI-powered prototyping, neural user testing, and holographic collaborative design review systems.",
+      "url": "https://marvelapp.com/",
+      "morelink": "marvel-quantum"
+    },
+    {
+      "title": "Proto.io Neural",
+      "description": "Mobile app prototyping tool with quantum interaction modeling, AI-powered user flow optimization, and holographic device preview.",
+      "url": "https://proto.io/",
+      "morelink": "protoio-neural"
+    },
+    {
+      "title": "Adobe Aero AR",
+      "description": "Augmented reality authoring tool with neural object tracking, quantum spatial computing, and holographic AR experience creation.",
+      "url": "https://adobe.com/products/aero.html",
+      "morelink": "aero-ar"
+    },
+    {
+      "title": "Gravity Sketch VR",
+      "description": "Virtual reality 3D design platform with neural gesture recognition, quantum spatial modeling, and holographic collaborative creation.",
+      "url": "https://gravitysketch.com/",
+      "morelink": "gravity-vr"
+    },
+    {
+      "title": "Adobe Dimension AI",
+      "description": "3D design and rendering software with neural material simulation, quantum lighting optimization, and holographic product visualization.",
+      "url": "https://adobe.com/products/dimension.html",
+      "morelink": "dimension-ai"
+    },
+    {
+      "title": "Zeplin Neural",
+      "description": "Design handoff platform with AI-powered specification generation, quantum asset optimization, and holographic developer collaboration tools.",
+      "url": "https://zeplin.io/",
+      "morelink": "zeplin-neural"
+    },
+    {
+      "title": "Abstract Quantum",
+      "description": "Version control for design files with neural merge conflict resolution, quantum branching systems, and holographic design history visualization.",
+      "url": "https://abstract.com/",
+      "morelink": "abstract-quantum"
+    }
+  ]
+}
