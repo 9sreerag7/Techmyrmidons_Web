@@ -1,0 +1,104 @@
+{
+  "follow": [
+    {
+      "followLink": "https://jessicawalsh.com/",
+      "photo": "jessica_walsh.jpg",
+      "name": "Jessica Walsh"
+    },
+    {
+      "followLink": "https://sagmeisterwalsh.com/",
+      "photo": "stefan_sagmeister.jpg",
+      "name": "Stefan Sagmeister"
+    },
+    {
+      "followLink": "https://www.paulascher.com/",
+      "photo": "paula_scher.jpg",
+      "name": "Paula Scher"
+    },
+    {
+      "followLink": "https://www.pentagram.com/about/michael-bierut",
+      "photo": "michael_bierut.jpg",
+      "name": "Michael Bierut"
+    },
+    {
+      "followLink": "https://www.jnd.org/",
+      "photo": "don_norman.jpg",
+      "name": "Don Norman"
+    },
+    {
+      "followLink": "https://www.lukew.com/",
+      "photo": "luke_wroblewski.jpg",
+      "name": "Luke Wroblewski"
+    },
+    {
+      "followLink": "https://bradfrost.com/",
+      "photo": "brad_frost.jpg",
+      "name": "Brad Frost"
+    },
+    {
+      "followLink": "https://kellywearstler.com/",
+      "photo": "kelly_wearstler.jpg",
+      "name": "Kelly Wearstler"
+    },
+    {
+      "followLink": "https://www.joncontino.com/",
+      "photo": "jon_contino.jpg",
+      "name": "Jon Contino"
+    },
+    {
+      "followLink": "https://timothygoodman.com/",
+      "photo": "timothy_goodman.jpg",
+      "name": "Timothy Goodman"
+    },
+    {
+      "followLink": "https://www.aarronwalter.com/",
+      "photo": "aaron_walter.jpg",
+      "name": "Aarron Walter"
+    },
+    {
+      "followLink": "https://www.sensory.studio/",
+      "photo": "steve_krug.jpg",
+      "name": "Steve Krug"
+    },
+    {
+      "followLink": "https://louisefili.com/",
+      "photo": "louise_fili.jpg",
+      "name": "Louise Fili"
+    },
+    {
+      "followLink": "https://www.pentagram.com/about/eddie-opara",
+      "photo": "eddie_opara.jpg",
+      "name": "Eddie Opara"
+    },
+    {
+      "followLink": "https://www.karimrashid.com/",
+      "photo": "karim_rashid.jpg",
+      "name": "Karim Rashid"
+    },
+    {
+      "followLink": "https://www.pentagram.com/about/natasha-jen",
+      "photo": "natasha_jen.jpg",
+      "name": "Natasha Jen"
+    },
+    {
+      "followLink": "https://www.davidcarson.com/",
+      "photo": "david_carson.jpg",
+      "name": "David Carson"
+    },
+    {
+      "followLink": "https://www.pentagram.com/about/abbott-miller",
+      "photo": "abbott_miller.jpg",
+      "name": "Abbott Miller"
+    },
+    {
+      "followLink": "https://www.chrisdo.com/",
+      "photo": "chris_do.jpg",
+      "name": "Chris Do"
+    },
+    {
+      "followLink": "https://www.johnmaeda.io/",
+      "photo": "john_maeda.jpg",
+      "name": "John Maeda"
+    }
+  ]
+}
