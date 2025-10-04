@@ -2,52 +2,52 @@
   "follow": [
     {
       "followLink": "https://jessicawalsh.com/",
-      "photo": "image.jpg",
+      "photo": "image.png",
       "name": "Jessica Walsh"
     },
     {
       "followLink": "https://sagmeisterwalsh.com/",
-      "photo": "image1.jpg",
+      "photo": "image1.png",
       "name": "Stefan Sagmeister"
     },
     {
       "followLink": "https://www.jnd.org/",
-      "photo": "image2.jpg",
+      "photo": "image2.png",
       "name": "Don Norman"
     },
     {
       "followLink": "https://bradfrost.com/",
-      "photo": "image3.jpg",
+      "photo": "image3.png",
       "name": "Brad Frost"
     },
     {
       "followLink": "https://kellywearstler.com/",
-      "photo": "image4.jpg",
+      "photo": "image4.png",
       "name": "Kelly Wearstler"
     },
     {
       "followLink": "https://www.joncontino.com/",
-      "photo": "image5.jpg",
+      "photo": "image5.png",
       "name": "Jon Contino"
     },
     {
       "followLink": "https://timothygoodman.com/",
-      "photo": "image6.jpg",
+      "photo": "image6.png",
       "name": "Timothy Goodman"
     },
     {
       "followLink": "https://www.sensory.studio/",
-      "photo": "image7.jpg",
+      "photo": "image7.png",
       "name": "Steve Krug"
     },
     {
       "followLink": "https://louisefili.com/",
-      "photo": "image8.jpg",
+      "photo": "image8.png",
       "name": "Louise Fili"
     },
     {
       "followLink": "https://www.pentagram.com/about/eddie-opara",
-      "photo": "image9.jpg",
+      "photo": "image9.png",
       "name": "Eddie Opara"
     }
   ]
